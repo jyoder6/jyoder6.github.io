@@ -1,3 +1,3 @@
-# Your blog
-
-This is the repository for your blog! Click *_config.yml* above to get started and fill in the details. Then click *index.md* and edit it to start creating your home page.
+# Notebook posts:
+Create then run
+`nbdev_nb2md _notebooks/yyyy-mm-dd-name.ipynb --dest ./_posts/.`
